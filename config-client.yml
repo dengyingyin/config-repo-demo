@@ -8,3 +8,6 @@ spring:
           uri: https://github.com/dengyingyin/config-repo-demo.git
 server:
   port: 1201
+
+aaa:
+  123
